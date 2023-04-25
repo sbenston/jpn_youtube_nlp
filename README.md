@@ -1,11 +1,10 @@
 # Frequency and Morphological Analysis of YouTube Comments
 
 ## TO-DO:
-1) Make visualizations of frequency of terms
-2) Analyze usage of ます-です usage versus plain forms
-3) Compare frequency between top-level and replies
-4) Sort by POS
-5) Compare with daily conversation corpus
+1) Analyze usage of ます-です usage versus plain forms
+2) Frequency for most common POS
+3) Compare with daily conversation corpus
+4) Make summary visualizations
 
 ## Analysis Overview
 
